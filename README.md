@@ -10,7 +10,3 @@ Este projeto foi criado como parte de um estudo sobre RabbitMQ, mostrando como o
 
 - O aplicativo de console consome detalhes de reservas de bilhetes da fila "bookings" no RabbitMQ e os exibe.
 - A API aceita solicitações para criar reservas de bilhetes, armazenando temporariamente os detalhes em memória e enviando-os como mensagens para a fila "bookings" no RabbitMQ.
-
-
----
-Este projeto foi criado para fins de estudo e aprendizado do RabbitMQ.
